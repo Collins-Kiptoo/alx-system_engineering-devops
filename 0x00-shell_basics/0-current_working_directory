@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod u+x
-which 0-current_working_directory
+chmod u+u 0-current_working_directory
